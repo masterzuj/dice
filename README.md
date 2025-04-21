@@ -1,6 +1,6 @@
 # dice
 
-![dice](https://github.com/user-attachments/assets/1506a42f-da49-4de7-a6f7-ee4f2f68bac3)
+![dice2](https://github.com/user-attachments/assets/f6e9633b-4e34-4686-baf0-39f39bfbc3c1)
 
 
     git clone https://github.com/masterzuj/dice.git
@@ -20,7 +20,7 @@ You can change the picture on dice in the href:
 
 
 Also you can change the link, wich opens 
-when the dice was rolled
+when the dice was rolled:
 
     var numberwin = [
             { number: 1, image: "./arrow.png", href: "./arrow.png" },
@@ -33,3 +33,5 @@ when the dice was rolled
             { number: 8, image: "./cross.png", href: "./cross.png" },
             { number: 0, image: "", href: "https://zujkov.com/" },
         ];
+
+
